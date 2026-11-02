@@ -1,72 +1,129 @@
 # 💻 BS-IT-Practice
 
+<p align="center">
+  <strong>My journey into programming, problem-solving, and software development.</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-blue" alt="C++">
+  <img src="https://img.shields.io/badge/Level-Beginner-green" alt="Beginner">
+  <img src="https://img.shields.io/badge/Field-BS%20IT-orange" alt="BS IT">
+</p>
+
+---
+
+## 👋 About This Repository
+
 Welcome to my programming repository!
 
-I'm a **BS IT student** learning programming, software development, and computer science fundamentals. This repository contains my university programming practice, assignments, and beginner-friendly projects.
+I'm a BS Information Technology student learning programming and software development.
 
-## 👨‍💻 About Me
+This repository contains my C++ practice programs, university assignments, and beginner-friendly projects. I'm using it to improve my coding skills and build a strong foundation in computer science.
 
-- 🎓 BS Information Technology Student
-- 💻 Learning C++ Programming
-- 🚀 Interested in Software Development, Artificial Intelligence, and Cybersecurity
-- 📚 Building projects to improve my programming skills
+## 📂 Projects
 
-## 📂 Repository Contents
+### 1. Hello C++
 
-| File | Description |
-|---|---|
-| `hello.cpp` | A simple C++ program that prints a greeting message |
-| `student_marks_calculator.cpp` | A C++ program to calculate student marks and results |
+**File:** `hello.cpp`
 
-## 🛠️ Technologies Used
+A simple welcome program that introduces my programming journey.
+
+**Concepts:**
+- Input and output
+- Strings
+- `getline()`
+- Basic C++ syntax
+
+### 2. Student Marks Calculator
+
+**File:** `student_marks_calculator.cpp`
+
+A C++ program that calculates a student's academic result using marks from five subjects.
+
+**Features:**
+- Student name input
+- Five subjects
+- Total marks out of 500
+- Percentage calculation
+- Grade calculation
+- Pass/Fail status
+- Marks validation
+
+**Concepts:**
+- Arrays
+- Loops
+- Conditional statements
+- Variables and data types
+- Input validation
+
+## 🛠️ Technologies
 
 - C++
 - Visual Studio Code
 - GCC / G++ Compiler
-- Git and GitHub
+- Git
+- GitHub
 
-## 🚀 How to Run the Programs
+## 🚀 Getting Started
 
-1. Clone this repository:
+### Clone the Repository
 
-   ```bash
-   git clone https://github.com/danishalikhan-dev/BS-IT-Practice.git
-   ```
+```bash
+git clone https://github.com/danishalikhan-dev/BS-IT-Practice.git
+```
 
-2. Open the project folder in Visual Studio Code.
+### Compile a Program
 
-3. Compile the program using G++:
+For the Student Marks Calculator:
 
-   ```bash
-   g++ student_marks_calculator.cpp -o student_marks_calculator
-   ```
+```bash
+g++ student_marks_calculator.cpp -o student_marks_calculator
+```
 
-4. Run the program:
+For the Hello C++ program:
 
-   **Windows:**
+```bash
+g++ hello.cpp -o hello
+```
 
-   ```bash
-   .\student_marks_calculator.exe
-   ```
+### Run the Programs
 
-   **Linux / macOS:**
+**Windows:**
 
-   ```bash
-   ./student_marks_calculator
-   ```
+```powershell
+.\student_marks_calculator.exe
+```
+
+```powershell
+.\hello.exe
+```
+
+**Linux / macOS:**
+
+```bash
+./student_marks_calculator
+```
+
+```bash
+./hello
+```
 
 ## 🎯 Learning Goals
 
-- Improve problem-solving skills
-- Understand C++ programming fundamentals
-- Practice functions, loops, conditions, and arrays
-- Develop practical programming projects
-- Build a professional GitHub portfolio
+- Strengthen C++ programming fundamentals
+- Improve logical thinking and problem-solving
+- Practice university programming assignments
+- Build practical programming projects
+- Develop a professional GitHub portfolio
 
-## 📈 Progress
+## 📈 My Progress
 
-This repository is continuously updated as I learn new concepts and develop more projects.
+I'm continuously learning and adding new projects to this repository as I progress through my BS IT degree.
+
+More projects coming soon!
 
 ---
 
-⭐ Thank you for visiting my repository!
+<p align="center">
+  ⭐ Thank you for visiting my repository!
+</p>
